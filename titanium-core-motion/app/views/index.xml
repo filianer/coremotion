@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<Label top="40">Estado Coremotion:</Label>
+		<Label top="10" color="red" class="coreMotionStatus">Esperando...</Label>
+		<Button top="20" onClick="test">Probar que estoy vivo</Button>
+	</Window>
+</Alloy>
